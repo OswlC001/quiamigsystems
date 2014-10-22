@@ -1,0 +1,21 @@
+
+.titulo{
+    color: #222;
+    padding-top: 15px;
+    padding-left: 35px
+}
+
+.parrafo {
+    text-align: justify;
+    color: #444;
+    padding-left: 35px;
+    padding-right: 25px
+}
+
+.contenedor {
+    background-color: lightcyan;
+    width: 700px;
+    height: 300px;
+    background: url('../images/fondo.jpg') no-repeat;
+}
+
