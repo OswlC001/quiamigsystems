@@ -13,9 +13,20 @@
 }
 
 .contenedor {
-    background-color: lightcyan;
-    width: 762px;
-    height: 342px;
-    background: url('../images/fondo.png') no-repeat;
+    width: 770px;
+    height: 340px;
+    background: azure;
+}
+
+.celda_foto {
+    width: 50px;
+}
+
+.celda_normal {
+    width: 150px;
+}
+
+.celda_larga {
+    width: 300px;
 }
 
